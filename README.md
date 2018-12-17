@@ -1,4 +1,4 @@
 # adding-comments
 
-- Ширина страницы тянется от 360px до 720px.
-- JS реализует функциональность добавления блока с комментарием по нажатию на кнопку "Написать консультанту" или сочетанием клавиш Ctrl+Enter.
+- Page width from 360px to 720px.
+- JS realizes adding comment block by clicking "Написать консультанту" or with Ctrl+Enter keyboard shortcut.
